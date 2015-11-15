@@ -1,0 +1,435 @@
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Mehwish\Documents\Visual Studio 2008\Projects\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\WEBSITE\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\CameraCapture.exe
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Simple CameraCapture - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\CameraCapture.exe
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\obj\Debug\LiveFaceDetection.CameraCapture.resources
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\level 3\Live Face Detection\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\CameraCapture.exe
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\obj\Debug\LiveFaceDetection.CameraCapture.resources
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\level 3\Level 3b-Live Face Detection\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Level 3d-Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Level 3d-Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\CameraCapture.exe
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\CameraCapture.pdb
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\CameraCapture.exe
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\CameraCapture.pdb
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\LiveFaceDetection.CameraCapture.resources
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Level 3d - Param Tuning of Detection\Source Code\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\LiveFaceDetection.FaceDetectorAndRecognizer.resources
+E:\WEBSITE\Level 4c\Level 3d Source Code\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetManager.resources
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetManager.resources
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Level 4c\Level 3d Source Code - Copy\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\ResolveAssemblyReference.cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetManager.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetMaker.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetMaker.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetManager.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code - Copy\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetManager.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code x86 target version - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetManager.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code AnyCPU\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted)\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\WEBSITE\Level 4c\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.exe
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\LiveFaceDetection.exe
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\obj\Debug\LiveFaceDetection.exe
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\LiveFaceDetection.exe
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.CV.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.Util.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+C:\Users\Mahwish\Desktop\Face Rec FINAL Source Code (x86 targetted) - Copy - Copy\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\ZedGraph.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\ZedGraph.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\ZedGraph.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\ZedGraph.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - Semi Empty - Copy\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.exe
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.exe
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\ZedGraph.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.CV.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.CV.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.Util.pdb
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.Util.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\ZedGraph.xml
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+E:\Few Tuts\Level 4c - Face Recognition System Analysis & Design\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.exe
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.exe
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\ZedGraph.dll
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.CV.pdb
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.CV.xml
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.CV.UI.xml
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.Util.pdb
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Emgu.Util.xml
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\ZedGraph.xml
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\KaueexD\Desktop\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Concluido.resources
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.exe
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Concluido.resources
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.exe
+C:\Users\u14280\Desktop\TCC\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.exe
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.exe
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Concluido.resources
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+C:\Users\u14280\Desktop\TCC Magic Mirror\TCC software\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.exe
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.exe
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Concluido.resources
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Inicio.resources
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.ClimaForm.resources
