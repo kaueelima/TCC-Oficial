@@ -44,7 +44,7 @@ public class Conexao
         try
         {
 
-            CONEXAO.ConnectionString = ("Data Source=REGULUS;Initial Catalog=BDu14281;User ID=BDu14281;Password=BDu14281");
+            CONEXAO.ConnectionString = ("Data Source=KAUÊ\\REGULUS;User ID=sa;Password=kaue123");
             COMANDO.Connection = CONEXAO;
             CONEXAO.Open();
         }

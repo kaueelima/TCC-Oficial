@@ -23,7 +23,7 @@ namespace LiveFaceDetection
             InitializeComponent();
         }
 
-        private async void button1_Click(object sender, EventArgs e)
+    /* private async void button1_Click(object sender, EventArgs e)
         {
             string weburl = "http://api.openweathermap.org/data/2.5/weather?q=" + textBox1.Text + "&mode=xml";
 
@@ -34,7 +34,7 @@ namespace LiveFaceDetection
             string szTemp = doc.DocumentElement.SelectSingleNode("temperature").Attributes["value"].Value;
             double temp = double.Parse(szTemp) - 273.16;
             label1.Text = temp.ToString("N2") + " Celcius";
-        }
+        }*/
 
     /*private async void button1_Click(object sender, EventArgs e)
         {

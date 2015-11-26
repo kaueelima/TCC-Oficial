@@ -131,7 +131,7 @@
             this.comboBoxScIncRte.Name = "comboBoxScIncRte";
             this.comboBoxScIncRte.Size = new System.Drawing.Size(64, 21);
             this.comboBoxScIncRte.TabIndex = 13;
-            this.comboBoxScIncRte.Text = "0.7";
+            this.comboBoxScIncRte.Text = "1.1";
             // 
             // comboBoxMinNeigh
             // 
@@ -175,6 +175,7 @@
             this.btnBrowse.TabIndex = 17;
             this.btnBrowse.Text = "Pesquisar Imagem";
             this.btnBrowse.UseVisualStyleBackColor = true;
+            this.btnBrowse.Visible = false;
             this.btnBrowse.Click += new System.EventHandler(this.btnBrowse_Click);
             // 
             // groupBox1
@@ -193,6 +194,7 @@
             this.groupBox1.TabIndex = 18;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Tune Detection Parameters:";
+            this.groupBox1.Visible = false;
             // 
             // openFileDialog
             // 
@@ -244,6 +246,7 @@
             this.pbCollectedFaces.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbCollectedFaces.TabIndex = 20;
             this.pbCollectedFaces.TabStop = false;
+            this.pbCollectedFaces.Visible = false;
             // 
             // nometxt
             // 
@@ -269,6 +272,7 @@
             this.button1.TabIndex = 29;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // txtSpeech
@@ -277,6 +281,7 @@
             this.txtSpeech.Name = "txtSpeech";
             this.txtSpeech.Size = new System.Drawing.Size(100, 20);
             this.txtSpeech.TabIndex = 30;
+            this.txtSpeech.Visible = false;
             // 
             // TrainingSetEditor
             // 

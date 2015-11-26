@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Essy.Tools.InputBox</id>
+    <version>1.0.0</version>
+    <title>InputBox</title>
+    <authors>Jeroen Vandezande</authors>
+    <owners>Jeroen Vandezande</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This package contains a winforms dialog that asks the user for text input. It has the capability to ask for passwords and returns NULL when the user pressed cancel.</description>
+    <summary>A winforms dialog that asks the user for text input.</summary>
+  </metadata>
+</package>

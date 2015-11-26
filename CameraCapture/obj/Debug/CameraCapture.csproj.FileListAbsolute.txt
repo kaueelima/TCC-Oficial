@@ -433,3 +433,23 @@ C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - hal
 C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
 C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
 C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.ClimaForm.resources
+C:\Users\KaueexD\Desktop\TCC 1.2 05.10.15\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Agenda.resources
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.exe
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Agenda.resources
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Concluido.resources
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.FaceRecognizer.resources
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Inicio.resources
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.TrainingSetEditor.resources
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Properties.Resources.resources
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.Cache
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.exe
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\LiveFaceDetection.pdb
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.pdb
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\InputBox.dll
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\InputBox.pdb
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Facebook (.Net 3.5).dll
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\JSON Toolkit (.Net 3.5).dll
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\Facebook (.Net 3.5).xml
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\bin\Debug\JSON Toolkit (.Net 3.5).xml
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\CameraCapture.csprojResolveAssemblyReference.cache
+C:\Users\KaueexD\Desktop\TccAtual\Level 4d Face Recognition System - half UNCODED\CameraCapture\obj\Debug\LiveFaceDetection.Facebook.resources

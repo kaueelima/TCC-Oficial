@@ -11,9 +11,10 @@ namespace LiveFaceDetection
 {
     public partial class Inicio : Form
     {
-        public Inicio()
+        public Inicio(String nome)
         {
             InitializeComponent();
+            txtNome.Text = nome;
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -24,6 +25,17 @@ namespace LiveFaceDetection
         private void button1_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Facebook facebook = new Facebook();
+            facebook.Show();
         }
     }
 }

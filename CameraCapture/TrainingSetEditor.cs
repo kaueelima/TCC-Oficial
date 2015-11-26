@@ -22,6 +22,7 @@ using Emgu.CV.Structure;
 using Emgu.Util;
 using Emgu.CV.CvEnum;
 using System.Data.SqlClient;
+using Microsoft.VisualBasic;
 
 
 namespace LiveFaceDetection
@@ -97,7 +98,7 @@ namespace LiveFaceDetection
             synth.Speak("Welcome to the magic mirror");
             synth.Dispose();
 
-            MessageBox.Show("Câmera selecionada");
+            //MessageBox.Show("Câmera selecionada");
             if (capture != null)
             {
                 if (btnStart.Text == "Extrair Rosto")
@@ -207,7 +208,7 @@ namespace LiveFaceDetection
                                     new Size(WindowsSize, WindowsSize))[0];
             if (faces.Length > 0)
             {
-                MessageBox.Show("Total Faces Detected: " + faces.Length.ToString());
+                //MessageBox.Show("Total Faces Detected: " + faces.Length.ToString());
 
                 Bitmap BmpInput = grayframe.ToBitmap();
                 Bitmap ExtractedFace;  // an empty "box"/"image" to hold the extracted face.
@@ -253,7 +254,7 @@ namespace LiveFaceDetection
                     Bitmap ExtractedFace2 = new Bitmap(ExtractedFace, 300, 300);
                     
                     ExtractedFace2.Save(@nometxt.Text + ".bmp");//save images in folder
-                    URL = "C:/Users/u14280/Desktop/TCC/Level 4d Face Recognition System - half UNCODED/CameraCapture/bin/Debug/" + nometxt.Text + ".bmp";
+                    URL = "C:\\Users\\KaueexD\\Desktop\\TccAtual\\Level 4d Face Recognition System - half UNCODED\\CameraCapture\\bin\\Debug\\" + nometxt.Text + ".bmp";
 
                     Conexao minhaConexao = new Conexao(); //criando comando de conexao
                     minhaConexao.Open();  //abrir conexao
@@ -273,13 +274,13 @@ namespace LiveFaceDetection
                         while (minhaConexao.DR.Read())
                         {
                             aux = Diferenca(URL, minhaConexao.DR.GetString(2));
-                            MessageBox.Show("Comparando com o do banco");
+                            //MessageBox.Show("Comparando com o do banco");
 
                             if (aux < menorDif) 
                             {
                                 menorDif = aux;
                                 nomeDif = minhaConexao.DR.GetString(1);
-                                MessageBox.Show("Comparado com alguem, sendo a diferença de " + menorDif + "com o " + nomeDif);
+                                //MessageBox.Show("Comparado com alguem, sendo a diferença de " + menorDif + "com o " + nomeDif);
                             }
                         }
 
@@ -300,11 +301,13 @@ namespace LiveFaceDetection
                         else
                         {
 
-                            MessageBox.Show("Você tem mais semelhança com o " + nomeDif + ". Com a diferença de " + menorDif + "%");
+                            //MessageBox.Show("Você tem mais semelhança com o " + nomeDif + ". Com a diferença de " + menorDif + "%");
+                            MessageBox.Show("Logou com sucesso como " + nomeDif);
+                            nometxt.Text = nomeDif;
                         }
                     }
 
-                    MessageBox.Show("Acabou de salvar");
+                    //MessageBox.Show("Acabou de salvar");
                     //Modificar para salvar essa imagem na PASTA!!! <<<<<<<<<<<<
 
                     //Save this extracted face to array
@@ -315,7 +318,7 @@ namespace LiveFaceDetection
                 //Display the detected faces in imagebox
                 CamImageBox.Image = TestImage;
 
-                MessageBox.Show(faces.Length.ToString() + " Face(s) Extraída com sucesso!");
+                //MessageBox.Show(faces.Length.ToString() + " Face(s) Extraída com sucesso!");
               
                 pbCollectedFaces.Image = EXfaces[0];
                 //Passa a imagem para a variavel
@@ -335,8 +338,9 @@ namespace LiveFaceDetection
                 }
 
                 //CamImageBox.Image = TestImage;
-                Concluido formDestino = new Concluido(URL);
+                Inicio formDestino = new Inicio(nometxt.Text);
                 formDestino.Show();
+                this.Visible = false;
             }
             else
                 MessageBox.Show("NO faces Detected!");
@@ -406,7 +410,7 @@ namespace LiveFaceDetection
                 }
             }
 
-            MessageBox.Show("diff: {0} %"+  100 * diff / (img1.Width * img1.Height * 3));
+            //MessageBox.Show("diff: {0} %"+  100 * diff / (img1.Width * img1.Height * 3));
             float dif = 100 * diff / (img1.Width * img1.Height * 3);
 
             return dif;
@@ -558,7 +562,6 @@ namespace LiveFaceDetection
 
         private void button1_Click(object sender, EventArgs e)
         {
-
             SpeechRecognitionEngine recognitionEngine = new SpeechRecognitionEngine(); 
             recognitionEngine.SetInputToDefaultAudioDevice(); 
             recognitionEngine.LoadGrammar(new DictationGrammar()); 
